@@ -1,0 +1,8 @@
+ToDo:
+
+- Anfang, Spieler
+- Haupt-Seite
+- HighScore
+
+- Design-Templates
+- Backend
